@@ -1,5 +1,7 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "access_token": 0
+    },
     "capabilities": [
         "configurable"
     ],
